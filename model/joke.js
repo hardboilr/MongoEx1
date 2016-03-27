@@ -1,3 +1,5 @@
+'use strict';
+
 var connection = require('../db/db');
 var ObjectId = require('mongodb').ObjectID;
 
